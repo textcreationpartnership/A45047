@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lord Mayor, Aldermen, and Commons of the city of London in Common Council assembled as it was presented to His Majesty in council at Windsor, upon Monday the 18th of June, 1683 : together with the Lord Keeper's speech.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45047</idno>
+            <idno type="STC">Wing H3551</idno>
+            <idno type="STC">ESTC R660</idno>
+            <idno type="EEBO-CITATION">13065050</idno>
+            <idno type="OCLC">ocm 13065050</idno>
+            <idno type="VID">97052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lord Mayor, Aldermen, and Commons of the city of London in Common Council assembled as it was presented to His Majesty in council at Windsor, upon Monday the 18th of June, 1683 : together with the Lord Keeper's speech.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, deceas'd and by Henry Hills, and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97052:1"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:97052:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE HUMBLE PETITION OF THE LORD MAYOR, <hi>Aldermen, and Commons of the City of</hi> London <hi>in Common Council Aſſembled,</hi> As it was Preſented to HIS MAJESTY In Council at <hi>Windſor,</hi> Upon <hi>Monday</hi> the 18th of <hi>June</hi> 1683. Together with the Lord Keepers Speech.</p>
+            <p>Publiſhed by His Majeſties Special Command.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by the Aſſigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97052:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="3" facs="tcp:97052:2"/>
+            <!-- PDF PAGE 56 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>TO THE KINGS Moſt Excellent MAJESTY, The humble Petition of the Lord Mayor, Aldermen, and Commons of the City of <hi>London</hi> in Common Council Aſ<g ref="char:EOLhyphen"/>ſembled.</head>
+                        <opener>SHEWETH,</opener>
+                        <p>
+                           <seg rend="decorInit">T</seg>Hat Your Petitioners are moſt heartily and unfeignedly ſorry for the Miſ-Government of this Your City of late Years, whereby the Citizens have fallen under Your Majeſties Diſpleaſure: Which occaſioned a <hi>Quo Warranto</hi> to be brought againſt them; <g ref="char:V">Ʋ</g>pon which Judgment hath been Pronounced for Seizure of their Liberties and Franchiſes into Your Majeſties Hands.</p>
+                        <p>That Your Petitioners are deeply ſenſible of, and thank fully acknowledge the great Favour of this Oportunity of Application to Your Royal
+<pb n="4" facs="tcp:97052:3"/>
+                           <!-- PDF PAGE 57 -->Grace, vouchſafed them by means of Your Ma<g ref="char:EOLhyphen"/>jeſties not Requiring Judgment to be immedi<g ref="char:EOLhyphen"/>ately Entred thereupon.</p>
+                        <p>And now conſidering this our diſtreſſed conditi<g ref="char:EOLhyphen"/>on, We humbly caſt our ſelves at Your Royal Feet, Imploring Your Princely Compaſsion and Grace to be extended to this Your Ancient City, moſt humbly begging Your Majeſties Pardon for all our Offences.</p>
+                        <p>
+                           <hi>And we do in the Name of our ſelves, and all the Citizens, humbly tender, and Pray Your Majeſty to accept the moſt Solemn Promiſes and Aſſurances of Conſtant Loyalty and Obedience to Your Majeſty, Your Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, and of our Regular and Dutiful Adminiſtration of Your Government of this City for the future: Wherein we ſubmit our ſelves to Your Maje<g ref="char:EOLhyphen"/>ſties good Pleaſure, and humbly beg Your Majeſties Commands and Di<g ref="char:EOLhyphen"/>rections: Which we will with all Hu<g ref="char:EOLhyphen"/>mility and Thankfulneſs Obey.</hi>
+                        </p>
+                        <closer>And Your Petitioners ſhall ever Pray, <hi>&amp;c.</hi>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After the Reading of which Petition, The Lord Mayor, Aldermen, and Citizens were Commanded to withdraw; And being again called in, the Lord Keeper ſpake to them as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <q>
+               <pb n="5" facs="tcp:97052:3"/>
+               <!-- PDF PAGE 57 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My Lord Mayor,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">I</seg> AM by the Kings Command to tell you, That He hath conſi<g ref="char:EOLhyphen"/>dered the humble Pe<g ref="char:EOLhyphen"/>tition of the City of <hi>London,</hi> where ſo ma<g ref="char:EOLhyphen"/>ny of the preſent Ma<g ref="char:EOLhyphen"/>giſtrates, and other Eminent Citizens are of undoubted Loy<g ref="char:EOLhyphen"/>alty, and Affection to His Service, That for their ſakes His Majeſty will ſhew the City all the Favour they can reaſonably deſire.</p>
+                        <p>It was very long before His Majeſty took Reſo<g ref="char:EOLhyphen"/>lutions to queſtion their Charter: It was not the Se<g ref="char:EOLhyphen"/>ditious Diſcourſes of the Coffee-Houſes, the Trea<g ref="char:EOLhyphen"/>ſonable Pamphlets, and Libels daily Publiſhed and Diſperſed thence into all Parts of the Kingdom, the Outragious Tumults in the Streets, nor the Aftronts to His Courts of Juſtice could provoke Him to it.</p>
+                        <p>His Majeſty had Patience until Diſorders were grown to that height, That nothing leſs ſeemed to be Deſigned than a Ruine to the Government both of Church and State; For the Factious Party were not content with the Practice of theſe Inſolencies, but endeavoured to have them publiquely counte<g ref="char:EOLhyphen"/>nanced by the Magiſtrates, and for that end in all Elections they ſtickled to Chuſe the moſt diſaffected
+<pb n="6" facs="tcp:97052:4"/>
+                           <!-- PDF PAGE 58 -->into Offices of the greateſt Truſt in the Govern<g ref="char:EOLhyphen"/>ment, and carried themſelves with that Heat and Violence, That it was a Terror to all ſober and diſ<g ref="char:EOLhyphen"/>creet Citizens; And the City was ſo unhappily di<g ref="char:EOLhyphen"/>vided into Parties, That there was no likelihood it could return to good Order, ſo long as the Factious retained any hopes of procuring the Election of Magiſtrates of their own Party, for their impu<g ref="char:EOLhyphen"/>nity.</p>
+                        <p>It was high time to put a Stop to this growing Evil. This made it Neceſſary for His Majeſty to enquire into their Abuſe of Franchiſes, that it might be in His Power to make a Regulation ſuf<g ref="char:EOLhyphen"/>ficient to Reſtore the City to its former good Go<g ref="char:EOLhyphen"/>vernment.</p>
+                        <p>It was not for Puniſhment, but meerly for the Good of the City that He took this Courſe.</p>
+                        <p>And now the King hath obtained Judgment in a <hi>Quo Warranto,</hi> it is not His Intention to Pre<g ref="char:EOLhyphen"/>judice them, either in their Properties or Cu<g ref="char:EOLhyphen"/>ſtoms. Nay, leſt the Entring a Judgment upon Record might have Conſequences Fatal to them, His Majeſty was ſo tender of them, That He cauſed Mr. Attorney to forbear the ſame at preſent, that the City might have ſome time to conſider their own Condition.</p>
+                        <p>
+                           <hi>My Lord,</hi>
+                           <lb/>
+I muſt needs ſay, The City hath not been well adviſed to defer their Application to His Majeſty
+<pb n="7" facs="tcp:97052:4"/>
+                           <!-- PDF PAGE 58 -->thus long, even till the Court hath Pronounced Judgment; It had been done with a much bet<g ref="char:EOLhyphen"/>ter grace, if it had been more early.</p>
+                        <p>His Majeſties Affection to the City is too great to reject their Suit for that Cauſe.</p>
+                        <p>But for that Reaſon you will have the leſs time to deliberate upon the Particulars the King doth require of you.</p>
+                        <p>And indeed, There will be little need of De<g ref="char:EOLhyphen"/>liberation; For His Majeſty hath reſolved to make the Alterations as few and as eaſie, as may be conſiſtent with the good Government of the Ci<g ref="char:EOLhyphen"/>ty, and Peace of the Kingdom. They are Theſe;</p>
+                        <p>
+                           <hi>His Majeſty Requires your Submiſſion to theſe Regulations;</hi>
+                        </p>
+                        <p>THat no Lord Mayor, Sheriff, Recorder, Com<g ref="char:EOLhyphen"/>mon Serjeant, Town Clerk, or Coroner of the City of <hi>London,</hi> or Steward of the Burrough of <hi>Southwark,</hi> ſhall be capable of, or admitted to the Exerciſe of their reſpective Offices, before His Ma<g ref="char:EOLhyphen"/>jeſty ſhall have Approved them under His Sign Ma<g ref="char:EOLhyphen"/>nual.</p>
+                        <p>That if His Majeſty ſhall Diſapprove the Choice of any Perſon to be Lord Mayor, and ſignifie the
+<pb n="8" facs="tcp:97052:5"/>
+                           <!-- PDF PAGE 59 -->ſame under His Sign Manual to the Lord May<g ref="char:EOLhyphen"/>or, or in default of a Lord Mayor, to the Re<g ref="char:EOLhyphen"/>corder or Senior Alderman; The Citizens ſhall within one week proceed to a new Choice: And if His Majeſty ſhall in like manner diſapprove the ſecond Choice, His Majeſty may, if He ſo pleaſe, Nominate a Perſon to be Lord Mayor for the enſuing Year.</p>
+                        <p>If His Majeſty ſhall in like manner diſapprove the Perſons choſen to be Sheriffs, or either of them, His Majeſty may appoint Perſons to be Sheriffs for the enſuing Year, by His Commiſſion, if He ſo Pleaſe.</p>
+                        <p>
+                           <hi>Nevertheleſs, the Elections of theſe Officers may be according to the ancient <g ref="char:V">Ʋ</g>ſage of the City, with theſe Restrictions.</hi>
+                        </p>
+                        <p>The Lord Mayor and Court of Aldermen may with leave of His Majeſty, diſplace any Alderman, Recorder, Common Serjeant, Town Glerk, Co<g ref="char:EOLhyphen"/>roner of the ſaid City, and Steward of the ſaid Burrough.</p>
+                        <p>Upon election of any Alderman, if any of the Perſons that ſhall be Preſented to the Court of Al<g ref="char:EOLhyphen"/>dermen by the Ward ſhall be adjudged unfit, upon ſuch Declaration by the ſaid Court, the Ward ſhall proceed to the Choice of other Perſons in the room of ſuch, or ſo many of them as are ſo diſapproved: And if the ſaid Court ſhall diſap<g ref="char:EOLhyphen"/>prove ſuch Second Choice, they may appoint any others in their room.</p>
+                        <p>
+                           <pb n="9" facs="tcp:97052:5"/>
+                           <!-- PDF PAGE 59 -->
+The Juſtices of the Peace to be by the Kings Commiſſion, which His Majeſty will Grant ac<g ref="char:EOLhyphen"/>cording to the uſual Method, unleſs upon Ex<g ref="char:EOLhyphen"/>traordinary Occaſions, when His Majeſty ſhall think it Neceſſary for His Service.</p>
+                        <p>Theſe Matters are to be Settled in ſuch manner as ſhall be Approved by His Majeſties Attorney and Solicitor General, and Councel Learned in the Law.</p>
+                        <p>
+                           <hi>My Lord Mayor,</hi>
+                           <lb/>
+Theſe Regulations being made, His Majeſty will not onely Pardon this Proſecution, but Confirm your Charter in ſuch manner as may be Conſiſtent with them.</p>
+                        <p>The City ought to Look upon this as a great Condeſcention on His Majeſties part; it being but in the Nature of a Reſervation of a ſmall part of what is already in His Power by the Judgment: And of thoſe things which will Conduce as much to their own Good and Quiet as to His Service.</p>
+                        <p>If the City ſhould Look upon it with another Eye, and neglect a ſpeedy Compliance, yet His Majeſty hath done His part, and Demonſtrated His Affection to the City, by giving them this Opportunity.</p>
+                        <p>And if there ſhall be any heavy Conſequence of this Judgment, which it will behove you well
+<pb n="10" facs="tcp:97052:6" rendition="simple:additions"/>
+                           <!-- PDF PAGE 60 -->to Conſider, The fault will lye at their doors, in whoſe power it now is, to bring this Affair to a happy Concluſion.</p>
+                        <p>
+                           <hi>My Lord Mayor,</hi>
+                           <lb/>
+The Term draws toward an end, and <hi>Midſomer<g ref="char:EOLhyphen"/>day</hi> is at hand, when ſome of the Officers uſe to be Choſen, whereof His Majeſty will Reſerve the Ap<g ref="char:EOLhyphen"/>probation; Therefore it is His Majeſties Pleaſure that you return to the City, and Conſult the Com<g ref="char:EOLhyphen"/>mon Council, that He may ſpeedily know your Reſolutions hereupon, and accordingly give His Directions.</p>
+                        <p>That you may ſee the King is in Earneſt, and the Matter is not capable of Delay, I am Commanded to let you know, He hath given Order to His Attor<g ref="char:EOLhyphen"/>ney General to Enter Up Judgment on <hi>Saturday</hi> next, unleſs you prevent it by your Compliance in all theſe Particulars.</p>
+                        <trailer>FINIS.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
